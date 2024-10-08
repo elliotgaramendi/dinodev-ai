@@ -20,9 +20,9 @@
 /* globals */
 .body {
   margin: 0;
-  font-family: monospace;
   background-color: var(--primary-background);
   color: var(--primary-text);
+  font-family: monospace;
 }
 
 /* layout */
