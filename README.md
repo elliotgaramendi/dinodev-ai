@@ -19,8 +19,7 @@
 | CSS        | 3       | Cascading Style Sheets    |
 
 ## 🤗 Social Media 🤗
-- 📺 **YouTube:** [@elliotgaramendi](https://www.youtube.com/@elliotgaramendi)
-- 💻 **GitHub:** [elliotgaramendi](https://github.com/elliotgaramendi)
-- 🌐 **LinkedIn:** [elliotgaramendi](https://www.linkedin.com/in/elliotgaramendi/)
+- ▶️ **YouTube:** [@elliotgaramendi](https://www.youtube.com/@elliotgaramendi)
+- 🐙 **GitHub:** [elliotgaramendi](https://github.com/elliotgaramendi)
+- 💼 **LinkedIn:** [elliotgaramendi](https://www.linkedin.com/in/elliotgaramendi/)
 - 📸 **Instagram:** [elliotgaramendi](https://www.instagram.com/elliotgaramendi/)
-
