@@ -21,6 +21,8 @@
 .body {
   margin: 0;
   font-family: monospace;
+  background-color: var(--primary-background);
+  color: var(--primary-text);
 }
 
 /* layout */
